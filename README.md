@@ -35,14 +35,40 @@ Department of Mechanical Engineering, Faculty of Engineering, Chulalongkorn Univ
 
 ## Video Demonstrations
 
-Click a preview to play the full video in your browser.
+Click a preview to watch the full video on YouTube.
 
-| | |
-|:---:|:---:|
-| [![Full process, front view](assets/previews/hot-melt-injection-front-view.gif)](https://akarapon1909.github.io/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/player/hot-melt-injection-front-view.html) | [![Thermal camera recording](assets/previews/thermal-camera-recording.gif)](https://akarapon1909.github.io/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/player/thermal-camera-recording.html) |
-| **Deposition run** — a workpiece on the machine bed, with the planned path projected before the polymer is deposited. | **Thermal recording** — infrared view of the platform while the polymer is deposited and cools. |
-| [![S-curve groove close-up](assets/previews/groove-filling-s-curve-closeup.gif)](https://akarapon1909.github.io/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/player/groove-filling-s-curve-closeup.html) | [![Zig-zag crack close-up](assets/previews/crack-filling-zigzag-closeup.gif)](https://akarapon1909.github.io/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/player/crack-filling-zigzag-closeup.html) |
-| **S-curve groove, close-up** — the nozzle depositing polymer into an S-shaped groove on a white plate. | **Zig-zag crack, close-up** — the nozzle depositing polymer along a zig-zag crack. |
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top"><a href="https://youtu.be/0s1RABJZrxQ"><img src="assets/previews/hot-melt-injection-front-view.gif" width="100%" alt="Deposition run, front view"></a></td>
+    <td width="50%" align="center" valign="top"><a href="https://youtu.be/N7qd_YeSdYk"><img src="assets/previews/thermal-camera-recording.gif" width="100%" alt="Thermal camera recording"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top"><strong>Deposition run</strong> — a workpiece on the machine bed, with the planned path projected before the polymer is deposited.</td>
+    <td width="50%" align="center" valign="top"><strong>Thermal recording</strong> — infrared view of the platform while the polymer is deposited and cools.</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top"><a href="https://youtu.be/0s1RABJZrxQ">▶ Watch on YouTube</a> · <a href="https://github.com/Akarapon1909/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/raw/main/assets/videos/hot-melt-injection-front-view.mp4">⬇ Download MP4</a></td>
+    <td width="50%" align="center" valign="top"><a href="https://youtu.be/N7qd_YeSdYk">▶ Watch on YouTube</a> · <a href="https://github.com/Akarapon1909/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/raw/main/assets/videos/thermal-camera-recording.mp4">⬇ Download MP4</a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top"><a href="https://youtu.be/SzJhBc62TtM"><img src="assets/previews/groove-filling-s-curve-closeup.gif" width="100%" alt="S-curve groove close-up"></a></td>
+    <td width="50%" align="center" valign="top"><a href="https://youtu.be/SiIRgWF3_LQ"><img src="assets/previews/crack-filling-zigzag-closeup.gif" width="100%" alt="Zig-zag crack close-up"></a></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top"><strong>S-curve groove, close-up</strong> — the nozzle depositing polymer into an S-shaped groove on a white plate.</td>
+    <td width="50%" align="center" valign="top"><strong>Zig-zag crack, close-up</strong> — the nozzle depositing polymer along a zig-zag crack.</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top"><a href="https://youtu.be/SzJhBc62TtM">▶ Watch on YouTube</a> · <a href="https://github.com/Akarapon1909/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/raw/main/assets/videos/groove-filling-s-curve-closeup.mp4">⬇ Download MP4</a></td>
+    <td width="50%" align="center" valign="top"><a href="https://youtu.be/SiIRgWF3_LQ">▶ Watch on YouTube</a> · <a href="https://github.com/Akarapon1909/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/raw/main/assets/videos/crack-filling-zigzag-closeup.mp4">⬇ Download MP4</a></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://youtu.be/vM9XD7gDWcU"><img src="assets/previews/camera-top-view.gif" width="420" alt="Camera-based top view"></a><br>
+  <strong>Camera-based top view</strong> — overhead camera recording of the workpiece on the machine bed, with the deposited polymer line visible as the bed moves. The preview shows one of the two camera views.<br>
+  <a href="https://youtu.be/vM9XD7gDWcU">▶ Watch on YouTube</a>
+</p>
 
 ---
 

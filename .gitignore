@@ -4,9 +4,15 @@
 !/README.md
 !/LICENSE
 !/assets/
-!/index.html
-!/player/
-!/.nojekyll
+
+# Videos: only the four videos below are tracked. Everything else in assets/videos/
+# (including the 382 MB "Hot Glue Bi Camera.mp4", over GitHub's 100 MB limit, and the
+# two audio-containing clips) stays untracked. Add new videos here explicitly.
+/assets/videos/*
+!/assets/videos/hot-melt-injection-front-view.mp4
+!/assets/videos/thermal-camera-recording.mp4
+!/assets/videos/groove-filling-s-curve-closeup.mp4
+!/assets/videos/crack-filling-zigzag-closeup.mp4
 
 # ---- Original GitHub template rules ----
 # Byte-compiled / optimized / DLL files
