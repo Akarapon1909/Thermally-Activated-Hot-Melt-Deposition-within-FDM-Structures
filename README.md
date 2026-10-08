@@ -39,9 +39,9 @@ Click a preview to open the video player.
 
 | | |
 |:---:|:---:|
-| [![Full process, front view](assets/posters/hot-melt-injection-front-view.jpg)](assets/videos/hot-melt-injection-front-view.mp4) | [![Thermal camera recording](assets/posters/thermal-camera-recording.jpg)](assets/videos/thermal-camera-recording.mp4) |
+| [![Full process, front view](assets/previews/hot-melt-injection-front-view.gif)](assets/videos/hot-melt-injection-front-view.mp4) | [![Thermal camera recording](assets/previews/thermal-camera-recording.gif)](assets/videos/thermal-camera-recording.mp4) |
 | **Deposition run** — a workpiece on the machine bed, with the planned path projected before the polymer is deposited. | **Thermal recording** — infrared view of the platform while the polymer is deposited and cools. |
-| [![S-curve groove close-up](assets/posters/groove-filling-s-curve-closeup.jpg)](assets/videos/groove-filling-s-curve-closeup.mp4) | [![Zig-zag crack close-up](assets/posters/crack-filling-zigzag-closeup.jpg)](assets/videos/crack-filling-zigzag-closeup.mp4) |
+| [![S-curve groove close-up](assets/previews/groove-filling-s-curve-closeup.gif)](assets/videos/groove-filling-s-curve-closeup.mp4) | [![Zig-zag crack close-up](assets/previews/crack-filling-zigzag-closeup.gif)](assets/videos/crack-filling-zigzag-closeup.mp4) |
 | **S-curve groove, close-up** — the nozzle depositing polymer into an S-shaped groove on a white plate. | **Zig-zag crack, close-up** — the nozzle depositing polymer along a zig-zag crack. |
 
 ---
