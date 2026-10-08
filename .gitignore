@@ -1,3 +1,11 @@
+# Only the curated showcase content is tracked.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/assets/
+
+# ---- Original GitHub template rules ----
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
