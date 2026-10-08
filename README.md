@@ -17,7 +17,7 @@ Department of Mechanical Engineering, Faculty of Engineering, Chulalongkorn Univ
 
 ### Crack and groove filling
 
-| | | |
+| | |
 |:---:|:---:|
 | <img src="assets/images/crack-filling-zigzag.jpg" width="100%" alt="Hot-melt polymer filling a zig-zag crack in a white plate"> | <img src="assets/images/crack-filling-arc.jpg" width="100%" alt="Hot-melt polymer filling an arc-shaped groove"> |
 | Transparent hot-melt polymer along a zig-zag crack. | Polymer following a long, curved groove. |
