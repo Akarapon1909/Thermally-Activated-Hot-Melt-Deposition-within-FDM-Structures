@@ -4,6 +4,9 @@
 !/README.md
 !/LICENSE
 !/assets/
+!/index.html
+!/player/
+!/.nojekyll
 
 # ---- Original GitHub template rules ----
 # Byte-compiled / optimized / DLL files

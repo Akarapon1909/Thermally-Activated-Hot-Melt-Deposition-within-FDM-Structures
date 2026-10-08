@@ -35,13 +35,13 @@ Department of Mechanical Engineering, Faculty of Engineering, Chulalongkorn Univ
 
 ## Video Demonstrations
 
-Click a preview to open the video player.
+Click a preview to play the full video in your browser.
 
 | | |
 |:---:|:---:|
-| [![Full process, front view](assets/previews/hot-melt-injection-front-view.gif)](assets/videos/hot-melt-injection-front-view.mp4) | [![Thermal camera recording](assets/previews/thermal-camera-recording.gif)](assets/videos/thermal-camera-recording.mp4) |
+| [![Full process, front view](assets/previews/hot-melt-injection-front-view.gif)](https://akarapon1909.github.io/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/player/hot-melt-injection-front-view.html) | [![Thermal camera recording](assets/previews/thermal-camera-recording.gif)](https://akarapon1909.github.io/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/player/thermal-camera-recording.html) |
 | **Deposition run** — a workpiece on the machine bed, with the planned path projected before the polymer is deposited. | **Thermal recording** — infrared view of the platform while the polymer is deposited and cools. |
-| [![S-curve groove close-up](assets/previews/groove-filling-s-curve-closeup.gif)](assets/videos/groove-filling-s-curve-closeup.mp4) | [![Zig-zag crack close-up](assets/previews/crack-filling-zigzag-closeup.gif)](assets/videos/crack-filling-zigzag-closeup.mp4) |
+| [![S-curve groove close-up](assets/previews/groove-filling-s-curve-closeup.gif)](https://akarapon1909.github.io/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/player/groove-filling-s-curve-closeup.html) | [![Zig-zag crack close-up](assets/previews/crack-filling-zigzag-closeup.gif)](https://akarapon1909.github.io/Thermally-Activated-Hot-Melt-Deposition-within-FDM-Structures/player/crack-filling-zigzag-closeup.html) |
 | **S-curve groove, close-up** — the nozzle depositing polymer into an S-shaped groove on a white plate. | **Zig-zag crack, close-up** — the nozzle depositing polymer along a zig-zag crack. |
 
 ---
